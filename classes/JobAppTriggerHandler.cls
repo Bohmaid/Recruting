@@ -2,7 +2,7 @@ public class JobAppTriggerHandler {
     /***********************************/
     /*************AHMED ZRAIGA**********/
     /*************AHMED ZRAIGA**********/
-    /*whjvhgvfhjsdf***/
+    /*whjvhgvfhjsdf*nonononononononono**/
     private static String CLASS_NAME = JobAppTriggerHandler.class.getName();
     
     public void onBeforeUpdate(List<Job_Application__c> JobAppsList, Map<id, Job_Application__c> oldMapJobApps){
