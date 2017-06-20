@@ -18,7 +18,7 @@ public class JobAppTriggerHandler {
             if(oldMapJobApps.get(job.Id).Status__c != job.Status__c && job.Status__c==JobAppManager.STATUS_COMPLETED){
                 setIdJobAppToTrait.add(job.Id);
             }
-        } /******5raaaaa**/
+        } /*****5raaaaa**/
         
         List<review__c> listReview =  reviewManager.getListByJobId(setIdJobAppToTrait);
         
